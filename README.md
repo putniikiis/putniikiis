@@ -1,16 +1,27 @@
 Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Ислам Евлоев
 =====================================================================================================================================
 
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13eff082-79b8-4a42-9bcd-aa8f32f7fd3b/d9syene-f5869554-39af-4448-97c3-87cc525e6b01.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGUiOiIvZi8xM2VmZjA4Mi03OWI4LTRhNDItOWJjZC1hYThmMzJmN2ZkM2IvZDlzeWVuZS1mNTg2OTU1NC0zOWFmLTQ0NDgtOTdjMy04N2NjNTI1ZTZiMDEuZ2lmIn1dXX0.kv_1df9jxIsoYnaJ02D0f6kiPbZn6gctbiUmTmU8-Bg" width="480" alt="profile banner"/>
+</p>
+
 Junior DevOps Engineer
 ----------------------
 
-**Junior DevOps** — администрирование **Linux**-серверов, **bash**-автоматизация, **Docker** / **Kubernetes**, мониторинг (**Grafana**, **Prometheus**), сети, CI/CD и базы данных. Учусь в **Школе 21** и **ИнгГУ**, веду pet-проекты на GitHub.
+**Junior DevOps** — Linux-серверы, **bash**-автоматизация, **Docker** / **Kubernetes**, **CI/CD**, мониторинг (**Grafana**, **Prometheus**), сети и базы данных. Стажировка DevOps (SmartHelpDesk), учёба в **Школе 21** и **ИнгГУ**, pet-проекты на GitHub.
 
-*   🌍  я живу в Ингушетии
+*   🌍  я живу в Ингушетии (Назрань)
 *   🖥️ мой профиль в GitHub [https://github.com/putniikiis](https://github.com/putniikiis)
 *   ✉️  можете связаться со мной [islam06evloev@gmail.com](mailto:islam06evloev@gmail.com) · [https://t.me/yettalor](https://t.me/yettalor)
 *   🧠  я учусь в ИнгГУ, Школа 21
-*   👥  я готов работать в России
+*   👥  я готов работать в России · удалённо
+
+### Experience
+
+| Период | Роль | Что делал |
+| --- | --- | --- |
+| 09.2024 — 02.2025 | **DevOps Engineer (стажировка)** · SmartHelpDesk | Docker, Kubernetes, CI/CD, Nginx, Grafana, MinIO; hardening после DDoS |
+| 2024 — н.в. | **Pet-проекты** · GitHub | [linux-devops](https://github.com/putniikiis/linux-devops), [niri-dotfiles](https://github.com/putniikiis/niri-dotfiles), [monorepo](https://github.com/putniikiis/monorepo) |
 
 ### Focus
 
@@ -29,11 +40,15 @@ Junior DevOps Engineer
 | [niri-dotfiles](https://github.com/putniikiis/niri-dotfiles) | Dotfiles Arch Linux, идемпотентный install, verify-скрипты | Bash · Python · Arch |
 | [monorepo](https://github.com/putniikiis/monorepo) | Учебный трек Школы 21: Linux → Bash → C | Linux · Bash · Git · Make |
 | [c-libraries](https://github.com/putniikiis/c-libraries) | Утилиты и библиотеки на C11 | C · Make · POSIX |
-| [Muslim-reminder](https://github.com/putniikiis/Muslim-reminder) | Фоновый сервис напоминаний (Linux / macOS) | Python · Shell |
+
+<p align="center">
+<a href="https://github.com/putniikiis/linux-devops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=putniikiis&repo=linux-devops&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" height="160" alt="linux-devops"/></a>
+<a href="https://github.com/putniikiis/niri-dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=putniikiis&repo=niri-dotfiles&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" height="160" alt="niri-dotfiles"/></a>
+</p>
 
 ### Certificates
 
-> Сертификаты в формате **PDF**. Положите файлы в папку [`certificates/`](certificates/) — ссылки ниже заработают автоматически.
+> Сертификаты в формате **PDF** — папка [`certificates/`](certificates/)
 
 | Сертификат | PDF |
 | --- | --- |
@@ -46,7 +61,7 @@ Junior DevOps Engineer
 | Yandex Cloud | [📄 yandex-cloud.pdf](certificates/yandex-cloud.pdf) |
 | Kubernetes | [📄 kubernetes.pdf](certificates/kubernetes.pdf) |
 
-<sub>💡 Чтобы добавить сертификат: загрузите PDF в `certificates/` и при необходимости добавьте строку в таблицу выше.</sub>
+<sub>💡 Загрузите PDF в `certificates/` — ссылка откроет файл на GitHub.</sub>
 
 ### Socials
    <p align="left"> <a href="https://www.github.com/putniikiis" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/islam8353" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
@@ -60,8 +75,20 @@ Junior DevOps Engineer
 
 <b>My GitHub Stats</b>
 
+[![profile views](https://komarev.com/ghpvc/?username=putniikiis&color=0891b2&style=flat-square&label=views&labelColor=1c1917)](https://github.com/putniikiis)
+
+<br/>
+
 <a href="http://www.github.com/putniikiis"><img src="https://github-readme-stats.vercel.app/api?username=putniikiis&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="putniikiis's GitHub stats" /></a>
 
 <a href="http://www.github.com/putniikiis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=putniikiis&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/putniikiis"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putniikiis&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=8" alt="top languages" /></a>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=putniikiis&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+
+<br/>
+
+<img src="https://github.com/putniikiis/putniikiis/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%"/>
