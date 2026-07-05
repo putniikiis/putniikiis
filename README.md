@@ -1,18 +1,22 @@
 <div align="center">
+<img src="video/profile.gif" width="540" alt="profile banner"/>
+</div>
+
+---
+
+<div align="center">
 
 ### Ислам Евлоев
 
-**Junior DevOps Engineer** · Linux · Containers · CI/CD · Observability
+**Junior DevOps Engineer**
+
+Linux · Docker · Kubernetes · CI/CD · Observability
 
 <br/>
 
-<img src="video/profile.gif" width="540" alt="profile banner"/>
+Назрань, Ингушетия · открыт к предложениям · Россия / удалённо
 
 <br/>
-
-<sub>Назрань, Ингушетия · открыт к предложениям · Россия / удалённо</sub>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/putniikiis&query=$.public_repos&style=flat-square&label=repos&color=0891b2&labelColor=1c1917&logo=github&logoColor=white" alt="repos"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/putniikiis&query=$.followers&style=flat-square&label=followers&color=1c1917&labelColor=0891b2&logo=github&logoColor=white" alt="followers"/>
@@ -115,50 +119,39 @@ DevOps-инженер начального уровня с практическ�
 | [**c-libraries**](https://github.com/putniikiis/c-libraries) | Утилиты и библиотеки C11 | C · Make · POSIX |
 | [**Muslim-reminder**](https://github.com/putniikiis/Muslim-reminder) | Фоновый сервис напоминаний | Python · Shell |
 
-<p align="center">
-<a href="https://github.com/putniikiis/linux-devops"><img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=putniikiis&repo=linux-devops&title_color=0891b2&text_color=e7e5e4&icon_color=f59e0b&bg_color=1c1917&hide_border=true" height="165" alt="linux-devops"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/putniikiis/niri-dotfiles"><img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=putniikiis&repo=niri-dotfiles&title_color=f59e0b&text_color=e7e5e4&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="165" alt="niri-dotfiles"/></a>
-</p>
-
 ---
 
 ## Сертификаты
 
-<p align="center">
-<a href="certificates/d01-linux.pdf"><img src="https://img.shields.io/badge/Linux-D01-0891b2?style=for-the-badge" alt="D01"/></a>
-<a href="certificates/d02-linux-network.pdf"><img src="https://img.shields.io/badge/Linux_Network-D02-0891b2?style=for-the-badge" alt="D02"/></a>
-<a href="certificates/d03-linux-monitoring.pdf"><img src="https://img.shields.io/badge/Monitoring-D03-f59e0b?style=for-the-badge" alt="D03"/></a>
-<a href="certificates/do5-docker.pdf"><img src="https://img.shields.io/badge/Docker-DO5-f59e0b?style=for-the-badge&logo=docker&logoColor=1c1917" alt="DO5"/></a>
-<a href="certificates/do6-cicd.pdf"><img src="https://img.shields.io/badge/CI%2FCD-DO6-ea580c?style=for-the-badge&logo=gitlab&logoColor=white" alt="DO6"/></a>
-<a href="certificates/do7-docker-compose.pdf"><img src="https://img.shields.io/badge/Docker_Compose-DO7-ea580c?style=for-the-badge&logo=docker&logoColor=white" alt="DO7"/></a>
-<a href="certificates/yandex-cloud.pdf"><img src="https://img.shields.io/badge/Yandex_Cloud-5282FF?style=for-the-badge" alt="Yandex Cloud"/></a>
-<a href="certificates/kubernetes.pdf"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
-</p>
+PDF-файлы хранятся в каталоге [`certificates/`](certificates/).  
+Чтобы добавить сертификат — положите PDF в папку с именем из таблицы ниже.
 
-<sub align="center">PDF — в каталоге <a href="certificates/">certificates/</a></sub>
+| Сертификат | PDF-файл |
+| :--- | :--- |
+| Linux (D01) | [`certificates/d01-linux.pdf`](certificates/d01-linux.pdf) |
+| Linux Network (D02) | [`certificates/d02-linux-network.pdf`](certificates/d02-linux-network.pdf) |
+| Linux Monitoring (D03) | [`certificates/d03-linux-monitoring.pdf`](certificates/d03-linux-monitoring.pdf) |
+| Simple Docker (DO5) | [`certificates/do5-docker.pdf`](certificates/do5-docker.pdf) |
+| CI/CD (DO6) | [`certificates/do6-cicd.pdf`](certificates/do6-cicd.pdf) |
+| Docker Compose (DO7) | [`certificates/do7-docker-compose.pdf`](certificates/do7-docker-compose.pdf) |
+| Yandex Cloud | [`certificates/yandex-cloud.pdf`](certificates/yandex-cloud.pdf) |
+| Kubernetes | [`certificates/kubernetes.pdf`](certificates/kubernetes.pdf) |
 
 ---
 
 ## Активность на GitHub
 
 <p align="center">
-<a href="https://github.com/putniikiis"><img src="https://github-readme-stats-sigma.vercel.app/api?username=putniikiis&show_icons=true&title_color=0891b2&text_color=e7e5e4&icon_color=f59e0b&bg_color=1c1917&hide_border=true" height="190" alt="GitHub stats"/></a>
-&nbsp;&nbsp;
 <a href="https://github.com/putniikiis"><img src="https://streak-stats.demolab.com/?user=putniikiis&stroke=e7e5e4&background=1c1917&ring=0891b2&fire=f59e0b&currStreakNum=e7e5e4&currStreakLabel=f59e0b&sideNums=e7e5e4&sideLabels=e7e5e4&dates=e7e5e4&hide_border=true" height="190" alt="contribution streak"/></a>
 </p>
 
-<p align="center">
-<strong>График коммитов</strong> · <code>июл 2025 — июл 2026</code>
-</p>
+**График коммитов** · `июл 2025 — июл 2026`
 
 <p align="center">
 <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=putniikiis&bg_color=1c1917&color=0891b2&line=f59e0b&point=e7e5e4&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
-<p align="center">
-<strong>Contribution Snake</strong> · <code>июл 2025 — июл 2026</code> · последние 12 месяцев
-</p>
+**Contribution Snake** · `июл 2025 — июл 2026` · последние 12 месяцев
 
 <p align="center">
 <picture>
@@ -167,4 +160,4 @@ DevOps-инженер начального уровня с практическ�
 </picture>
 </p>
 
-<p align="center"><sub>змейка обновляется ежедневно через GitHub Actions</sub></p>
+<sub>змейка обновляется ежедневно через GitHub Actions</sub>
