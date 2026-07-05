@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/161568160?v=4" width="110" style="border-radius: 50%; border: 3px solid #f59e0b;" alt="avatar"/>
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=520&lines=Ислам+Евлоев;Junior+DevOps+Engineer;Linux+%7C+Docker+%7C+Kubernetes" alt="typing intro"/>
 
 <br/>
@@ -24,13 +20,23 @@
 
 <br/><br/>
 
-<a href="https://github.com/putniikiis" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub"/></a>
+<a href="https://github.com/putniikiis" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub"/>
+  </picture>
+</a>
 &nbsp;&nbsp;
-<a href="https://t.me/yettalor" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="36" height="36" alt="Telegram"/></a>
+<a href="https://t.me/yettalor" target="_blank" rel="noreferrer"><img src="assets/icons/telegram.svg" width="36" height="36" alt="Telegram"/></a>
 &nbsp;&nbsp;
-<a href="https://discord.com/users/islam8353" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord"/></a>
+<a href="https://discord.com/users/islam8353" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord"/>
+  </picture>
+</a>
 &nbsp;&nbsp;
-<a href="mailto:islam06evloev@gmail.com"><img src="https://img.shields.io/badge/Почта-написать-f59e0b?style=flat-square&logo=gmail&logoColor=1c1917" alt="email"/></a>
+<a href="mailto:islam06evloev@gmail.com"><img src="assets/icons/gmail.svg" width="36" height="36" alt="Email"/></a>
 
 </div>
 
@@ -70,6 +76,7 @@
 <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="44" height="44" alt="Ubuntu"/></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="44" height="44" alt="Bash"/></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="44" height="44" alt="Python"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="44" height="44" alt="VS Code"/></a>
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="44" height="44" alt="Docker"/></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="44" height="44" alt="Git"/></a>
 <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="44" height="44" alt="PostgreSQL"/></a>
@@ -78,16 +85,17 @@
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Nginx-0891b2?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
-<img src="https://img.shields.io/badge/Helm-f59e0b?style=flat-square&logo=helm&logoColor=1c1917" alt="Helm"/>
+<img src="https://img.shields.io/badge/Helm-f59e0b?style=flat-square" alt="Helm"/>
 <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox"/>
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square" alt="Proxmox"/>
 <img src="https://img.shields.io/badge/Yandex_Cloud-5282FF?style=flat-square" alt="Yandex Cloud"/>
-<img src="https://img.shields.io/badge/VPN-ea580c?style=flat-square&logo=openvpn&logoColor=white" alt="VPN"/>
+<img src="https://img.shields.io/badge/VPN-ea580c?style=flat-square" alt="VPN"/>
 <img src="https://img.shields.io/badge/SSH-0891b2?style=flat-square&logo=gnubash&logoColor=white" alt="SSH"/>
 </p>
 
