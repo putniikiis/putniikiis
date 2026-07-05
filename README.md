@@ -1,243 +1,170 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=520&lines=Ислам+Евлоев;Junior+DevOps+Engineer;Linux+%7C+Docker+%7C+Kubernetes" alt="typing intro"/>
+### Ислам Евлоев
+
+**Junior DevOps Engineer** · Linux · Containers · CI/CD · Observability
 
 <br/>
 
-<img src="video/profile.gif" width="460" alt="profile banner"/>
+<img src="video/profile.gif" width="540" alt="profile banner"/>
+
+<br/>
+
+<sub>Назрань, Ингушетия · открыт к предложениям · Россия / удалённо</sub>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Назрань-Ингушетия-0891b2?style=for-the-badge&labelColor=1c1917" alt="location"/>
-<img src="https://img.shields.io/badge/Открыт_к_работе-f59e0b?style=for-the-badge&logo=briefcase&logoColor=1c1917" alt="open to work"/>
-<img src="https://img.shields.io/badge/Удалённо-ea580c?style=for-the-badge&labelColor=1c1917" alt="remote"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/putniikiis&query=$.public_repos&style=flat-square&label=repos&color=0891b2&labelColor=1c1917&logo=github&logoColor=white" alt="repos"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/putniikiis&query=$.followers&style=flat-square&label=followers&color=1c1917&labelColor=0891b2&logo=github&logoColor=white" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=putniikiis&color=f59e0b&style=flat-square&label=views&labelColor=1c1917" alt="profile views"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/putniikiis&query=$.public_repos&style=for-the-badge&label=репозитории&color=0891b2&labelColor=1c1917&logo=github" alt="repos"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/putniikiis&query=$.followers&style=for-the-badge&label=подписчики&color=f59e0b&labelColor=1c1917&logo=github" alt="followers"/>
-<img src="https://komarev.com/ghpvc/?username=putniikiis&color=ea580c&style=for-the-badge&label=просмотры&labelColor=1c1917" alt="profile views"/>
-
-<br/><br/>
-
-<a href="https://github.com/putniikiis" target="_blank" rel="noreferrer">
+<a href="https://github.com/putniikiis" target="_blank" rel="noreferrer" title="GitHub">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/>
   </picture>
 </a>
 &nbsp;&nbsp;
-<a href="https://t.me/yettalor" target="_blank" rel="noreferrer"><img src="assets/icons/telegram.svg" width="36" height="36" alt="Telegram"/></a>
+<a href="https://t.me/yettalor" target="_blank" rel="noreferrer" title="Telegram"><img src="assets/icons/telegram.svg" width="32" height="32" alt="Telegram"/></a>
 &nbsp;&nbsp;
-<a href="https://discord.com/users/islam8353" target="_blank" rel="noreferrer">
+<a href="https://discord.com/users/islam8353" target="_blank" rel="noreferrer" title="Discord">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"/>
   </picture>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:islam06evloev@gmail.com"><img src="assets/icons/gmail.svg" width="36" height="36" alt="Email"/></a>
+<a href="mailto:islam06evloev@gmail.com" title="Email"><img src="assets/icons/gmail.svg" width="32" height="32" alt="Email"/></a>
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/👋-Обо_мне-f59e0b?style=flat-square&labelColor=1c1917" height="22" alt="about"/>
+## Обо мне
 
-> *Junior DevOps из горного края — холодный стек, тёплый подход к инфраструктуре.*
+DevOps-инженер начального уровня с практическим опытом администрирования **Linux**, автоматизации на **Bash** / **Python** и развёртывания сервисов в **Docker** и **Kubernetes**. Настраивал **CI/CD**, **Nginx**, стеки **Prometheus** и **Grafana**, работал с PostgreSQL, Redis и MongoDB.
 
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Я **Ислам Евлоев** — **junior DevOps** из Назрани.
-
-Администрирую **Linux**-серверы, автоматизирую рутину на **Bash** и **Python**, поднимаю сервисы в **Docker** и **Kubernetes**, настраиваю **CI/CD**, **Nginx** и мониторинг **Prometheus / Grafana**. Прошёл стажировку в **SmartHelpDesk**, учусь в **Школе 21** и **ИнгГУ**, развиваю pet-проекты на GitHub.
+Стажировка **SmartHelpDesk** (`09.2024 — 02.2025`): контейнеризация, оркестрация, GitLab CI/CD, мониторинг и hardening инфраструктуры. Параллельно — **Школа 21** и **ИнгГУ**, pet-проекты и домашняя лаборатория на **Proxmox** / **Yandex Cloud**.
 
 | | |
 | :--- | :--- |
-| 🎓 **Образование** | **ИнгГУ** + **Школа 21** — Linux → Bash → C |
-| 💼 **Опыт** | DevOps-стажировка · `09.2024 — 02.2025` |
-| 🧪 **Лаборатория** | **Proxmox**, **Yandex Cloud**, VPN, бэкапы, observability |
-| 🇷🇺 **Формат** | Россия · удалённо |
+| **Образование** | ИнгГУ · Школа 21 — Linux → Bash → C |
+| **Фокус** | инфраструктура, автоматизация, observability, надёжность |
+| **Формат работы** | Россия · удалённо |
 
 ---
 
-## <img src="https://img.shields.io/badge/💼-Опыт-0891b2?style=flat-square&labelColor=1c1917" height="22" alt="experience"/>
+## Опыт
 
-| Период | Роль | Задачи |
+| Период | Роль | Результат |
 | :--- | :--- | :--- |
-| `09.2024 — 02.2025` | **DevOps Engineer (стажировка)** · SmartHelpDesk | Docker, Kubernetes, GitLab CI/CD, Nginx, Grafana, MinIO; защита инфраструктуры после DDoS |
-| `2024 — н.в.` | **Pet-проекты** · GitHub | [linux-devops](https://github.com/putniikiis/linux-devops) · [niri-dotfiles](https://github.com/putniikiis/niri-dotfiles) · [monorepo](https://github.com/putniikiis/monorepo) |
+| `09.2024 — 02.2025` | DevOps Engineer (стажировка) · SmartHelpDesk | Docker, Kubernetes, GitLab CI/CD, Nginx, Grafana, MinIO; защита и восстановление после DDoS |
+| `2024 — н.в.` | Open-source / pet-проекты | [linux-devops](https://github.com/putniikiis/linux-devops) · [niri-dotfiles](https://github.com/putniikiis/niri-dotfiles) · [monorepo](https://github.com/putniikiis/monorepo) |
 
 ---
 
-## <img src="https://img.shields.io/badge/🛠-Навыки-f59e0b?style=flat-square&labelColor=1c1917" height="22" alt="skills"/>
+## Стек
 
 <p align="center">
-<a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="44" height="44" alt="Kubernetes"/></a>
-<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="44" height="44" alt="Linux"/></a>
-<a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="44" height="44" alt="Ubuntu"/></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="44" height="44" alt="Bash"/></a>
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="44" height="44" alt="Python"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="44" height="44" alt="VS Code"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="44" height="44" alt="Docker"/></a>
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="44" height="44" alt="Git"/></a>
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="44" height="44" alt="PostgreSQL"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="44" height="44" alt="MongoDB"/></a>
-<a href="https://www.vim.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="44" height="44" alt="Vim"/></a>
+<a href="https://kubernetes.io/" title="Kubernetes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="40" height="40" alt="Kubernetes"/></a>&nbsp;
+<a href="https://www.linux.org" title="Linux"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux"/></a>&nbsp;
+<a href="https://ubuntu.com/" title="Ubuntu"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="40" height="40" alt="Ubuntu"/></a>&nbsp;
+<a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="40" height="40" alt="Bash"/></a>&nbsp;
+<a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python"/></a>&nbsp;
+<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code"/></a>&nbsp;
+<a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker"/></a>&nbsp;
+<a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git"/></a>&nbsp;
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL"/></a>&nbsp;
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB"/></a>&nbsp;
+<a href="https://www.vim.org/" title="Vim"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="40" height="40" alt="Vim"/></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Nginx-0891b2?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
-<img src="https://img.shields.io/badge/Helm-f59e0b?style=flat-square" alt="Helm"/>
+<img src="https://img.shields.io/badge/Helm-0891b2?style=flat-square" alt="Helm"/>
 <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square" alt="Proxmox"/>
 <img src="https://img.shields.io/badge/Yandex_Cloud-5282FF?style=flat-square" alt="Yandex Cloud"/>
-<img src="https://img.shields.io/badge/VPN-ea580c?style=flat-square" alt="VPN"/>
-<img src="https://img.shields.io/badge/SSH-0891b2?style=flat-square&logo=gnubash&logoColor=white" alt="SSH"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🐧 Linux** — Ubuntu Server, SSH, cron, диски, журналы, hardening
-
-**📦 Контейнеры** — Docker, Compose, Helm, Kubernetes
-
-**📊 Мониторинг** — Prometheus, Grafana, алерты, логи
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 Сеть** — Nginx, reverse proxy, VPN, iptables, DHCP
-
-**🗄️ Базы данных** — PostgreSQL, Redis, MongoDB, SQL, бэкапы
-
-**☁️ Инфраструктура** — Git/GitLab, Proxmox, Yandex Cloud, микросервисы
-
-</td>
-</tr>
-</table>
+| Направление | Технологии |
+| :--- | :--- |
+| **ОС и автоматизация** | Ubuntu Server, SSH, cron, bash, Python, hardening |
+| **Контейнеры** | Docker, Docker Compose, Helm, Kubernetes |
+| **CI/CD и VCS** | Git, GitLab, pipelines, reverse proxy |
+| **Observability** | Prometheus, Grafana, алерты, анализ логов |
+| **Данные** | PostgreSQL, Redis, MongoDB, SQL, резервное копирование |
+| **Сеть и платформа** | Nginx, VPN, iptables, Proxmox, Yandex Cloud |
 
 ---
 
-## <img src="https://img.shields.io/badge/📂-Проекты-0891b2?style=flat-square&labelColor=1c1917" height="22" alt="projects"/>
+## Проекты
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [`linux-devops`](https://github.com/putniikiis/linux-devops)
-Администрирование Linux, bash-мониторинг, observability, сетевая лаборатория.
-
-`Bash` · `Prometheus` · `Grafana` · `Nginx`
-
-</td>
-<td width="50%" valign="top">
-
-### [`niri-dotfiles`](https://github.com/putniikiis/niri-dotfiles)
-Dotfiles для Arch Linux: идемпотентная установка, verify-скрипты.
-
-`Bash` · `Python` · `Arch`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [`monorepo`](https://github.com/putniikiis/monorepo)
-Учебный трек Школы 21: Linux → Bash → C.
-
-`Linux` · `Bash` · `Git` · `Make`
-
-</td>
-<td width="50%" valign="top">
-
-### [`c-libraries`](https://github.com/putniikiis/c-libraries)
-Утилиты и библиотеки на C11.
-
-`C` · `Make` · `POSIX`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [`Muslim-reminder`](https://github.com/putniikiis/Muslim-reminder)
-Фоновый сервис напоминаний для Linux и macOS.
-
-`Python` · `Shell`
-
-</td>
-<td width="50%" valign="top">
-
-### [`putniikiis`](https://github.com/putniikiis/putniikiis)
-Профиль GitHub — DevOps-портфолио и сертификаты.
-
-`Markdown` · `GitHub Actions`
-
-</td>
-</tr>
-</table>
+| Проект | Описание | Стек |
+| :--- | :--- | :--- |
+| [**linux-devops**](https://github.com/putniikiis/linux-devops) | Администрирование Linux, bash-мониторинг, observability, сеть | Bash · Prometheus · Grafana · Nginx |
+| [**niri-dotfiles**](https://github.com/putniikiis/niri-dotfiles) | Dotfiles Arch Linux, идемпотентная установка | Bash · Python · Arch |
+| [**monorepo**](https://github.com/putniikiis/monorepo) | Учебный трек Школы 21 | Linux · Bash · C · Make |
+| [**c-libraries**](https://github.com/putniikiis/c-libraries) | Утилиты и библиотеки C11 | C · Make · POSIX |
+| [**Muslim-reminder**](https://github.com/putniikiis/Muslim-reminder) | Фоновый сервис напоминаний | Python · Shell |
 
 <p align="center">
-<a href="https://github.com/putniikiis/linux-devops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=putniikiis&repo=linux-devops&title_color=f59e0b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="170" alt="linux-devops"/></a>
+<a href="https://github.com/putniikiis/linux-devops"><img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=putniikiis&repo=linux-devops&title_color=0891b2&text_color=e7e5e4&icon_color=f59e0b&bg_color=1c1917&hide_border=true" height="165" alt="linux-devops"/></a>
 &nbsp;&nbsp;
-<a href="https://github.com/putniikiis/niri-dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=putniikiis&repo=niri-dotfiles&title_color=0891b2&text_color=ffffff&icon_color=f59e0b&bg_color=1c1917&hide_border=true" height="170" alt="niri-dotfiles"/></a>
+<a href="https://github.com/putniikiis/niri-dotfiles"><img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=putniikiis&repo=niri-dotfiles&title_color=f59e0b&text_color=e7e5e4&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="165" alt="niri-dotfiles"/></a>
 </p>
 
 ---
 
-## <img src="https://img.shields.io/badge/📜-Сертификаты-f59e0b?style=flat-square&labelColor=1c1917" height="22" alt="certificates"/>
+## Сертификаты
 
 <p align="center">
-<a href="certificates/d01-linux.pdf"><img src="https://img.shields.io/badge/D01-Linux-0891b2?style=for-the-badge" alt="D01 Linux"/></a>
-<a href="certificates/d02-linux-network.pdf"><img src="https://img.shields.io/badge/D02-Linux_Network-0891b2?style=for-the-badge" alt="D02"/></a>
-<a href="certificates/d03-linux-monitoring.pdf"><img src="https://img.shields.io/badge/D03-Monitoring-f59e0b?style=for-the-badge" alt="D03"/></a>
-<a href="certificates/do5-docker.pdf"><img src="https://img.shields.io/badge/DO5-Docker-f59e0b?style=for-the-badge&logo=docker&logoColor=1c1917" alt="DO5"/></a>
-<br/><br/>
-<a href="certificates/do6-cicd.pdf"><img src="https://img.shields.io/badge/DO6-CI%2FCD-ea580c?style=for-the-badge&logo=gitlab&logoColor=white" alt="DO6"/></a>
-<a href="certificates/do7-docker-compose.pdf"><img src="https://img.shields.io/badge/DO7-Docker_Compose-ea580c?style=for-the-badge&logo=docker&logoColor=white" alt="DO7"/></a>
+<a href="certificates/d01-linux.pdf"><img src="https://img.shields.io/badge/Linux-D01-0891b2?style=for-the-badge" alt="D01"/></a>
+<a href="certificates/d02-linux-network.pdf"><img src="https://img.shields.io/badge/Linux_Network-D02-0891b2?style=for-the-badge" alt="D02"/></a>
+<a href="certificates/d03-linux-monitoring.pdf"><img src="https://img.shields.io/badge/Monitoring-D03-f59e0b?style=for-the-badge" alt="D03"/></a>
+<a href="certificates/do5-docker.pdf"><img src="https://img.shields.io/badge/Docker-DO5-f59e0b?style=for-the-badge&logo=docker&logoColor=1c1917" alt="DO5"/></a>
+<a href="certificates/do6-cicd.pdf"><img src="https://img.shields.io/badge/CI%2FCD-DO6-ea580c?style=for-the-badge&logo=gitlab&logoColor=white" alt="DO6"/></a>
+<a href="certificates/do7-docker-compose.pdf"><img src="https://img.shields.io/badge/Docker_Compose-DO7-ea580c?style=for-the-badge&logo=docker&logoColor=white" alt="DO7"/></a>
 <a href="certificates/yandex-cloud.pdf"><img src="https://img.shields.io/badge/Yandex_Cloud-5282FF?style=for-the-badge" alt="Yandex Cloud"/></a>
 <a href="certificates/kubernetes.pdf"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
 </p>
 
-<p align="center"><sub>PDF-файлы — в папке <a href="certificates/">certificates/</a></sub></p>
+<sub align="center">PDF — в каталоге <a href="certificates/">certificates/</a></sub>
 
 ---
 
-## <img src="https://img.shields.io/badge/📊-Статистика-0891b2?style=flat-square&labelColor=1c1917" height="22" alt="stats"/>
+## Активность на GitHub
 
 <p align="center">
-<a href="https://github.com/putniikiis"><img src="https://github-readme-stats.vercel.app/api?username=putniikiis&show_icons=true&title_color=f59e0b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&include_all_commits=true" height="195" alt="GitHub stats"/></a>
+<a href="https://github.com/putniikiis"><img src="https://github-readme-stats-sigma.vercel.app/api?username=putniikiis&show_icons=true&title_color=0891b2&text_color=e7e5e4&icon_color=f59e0b&bg_color=1c1917&hide_border=true" height="190" alt="GitHub stats"/></a>
 &nbsp;&nbsp;
-<a href="https://github.com/putniikiis"><img src="https://streak-stats.demolab.com/?user=putniikiis&stroke=ffffff&background=1c1917&ring=0891b2&fire=f59e0b&currStreakNum=ffffff&currStreakLabel=f59e0b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="195" alt="contribution streak"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/putniikiis"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putniikiis&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=6&hide_progress=false" height="195" alt="top languages"/></a>
+<a href="https://github.com/putniikiis"><img src="https://streak-stats.demolab.com/?user=putniikiis&stroke=e7e5e4&background=1c1917&ring=0891b2&fire=f59e0b&currStreakNum=e7e5e4&currStreakLabel=f59e0b&sideNums=e7e5e4&sideLabels=e7e5e4&dates=e7e5e4&hide_border=true" height="190" alt="contribution streak"/></a>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=putniikiis&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="github trophies"/>
+<strong>График коммитов</strong> · <code>июл 2025 — июл 2026</code>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/📈_График_активности-июл_2025_—_июл_2026-f59e0b?style=for-the-badge&labelColor=1c1917" alt="activity period"/>
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=putniikiis&bg_color=1c1917&color=0891b2&line=f59e0b&point=e7e5e4&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
 <p align="center">
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=putniikiis&bg_color=1c1917&color=f59e0b&line=fb923c&point=0891b2&area=true&hide_border=true" alt="activity graph"/>
+<strong>Contribution Snake</strong> · <code>июл 2025 — июл 2026</code> · последние 12 месяцев
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/🐍_Contribution_Snake-июл_2025_—_июл_2026-ea580c?style=for-the-badge&labelColor=1c1917" alt="snake period"/>
-<br/><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/putniikiis/putniikiis/output/github-contribution-grid-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/putniikiis/putniikiis/output/github-contribution-grid-snake.svg" alt="contribution snake" width="92%"/>
+  <img src="https://raw.githubusercontent.com/putniikiis/putniikiis/output/github-contribution-grid-snake.svg" alt="contribution snake" width="94%"/>
 </picture>
-<br/>
-<sub>последние 12 месяцев · обновляется ежедневно в 00:00 UTC</sub>
 </p>
+
+<p align="center"><sub>змейка обновляется ежедневно через GitHub Actions</sub></p>
