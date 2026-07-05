@@ -2,7 +2,7 @@
 =====================================================================================================================================
 
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13eff082-79b8-4a42-9bcd-aa8f32f7fd3b/d9syene-f5869554-39af-4448-97c3-87cc525e6b01.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGUiOiIvZi8xM2VmZjA4Mi03OWI4LTRhNDItOWJjZC1hYThmMzJmN2ZkM2IvZDlzeWVuZS1mNTg2OTU1NC0zOWFmLTQ0NDgtOTdjMy04N2NjNTI1ZTZiMDEuZ2lmIn1dXX0.kv_1df9jxIsoYnaJ02D0f6kiPbZn6gctbiUmTmU8-Bg" width="480" alt="profile banner"/>
+  <img src="video/profile.gif" width="480" alt="profile banner"/>
 </p>
 
 Junior DevOps Engineer
