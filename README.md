@@ -113,33 +113,7 @@
 
 ---
 
-## Стек
-
-<p align="center">
-<a href="https://kubernetes.io/" title="Kubernetes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="44" height="44" alt="Kubernetes"/></a>&nbsp;
-<a href="https://www.linux.org" title="Linux"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="44" height="44" alt="Linux"/></a>&nbsp;
-<a href="https://ubuntu.com/" title="Ubuntu"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="44" height="44" alt="Ubuntu"/></a>&nbsp;
-<a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="44" height="44" alt="Bash"/></a>&nbsp;
-<a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="44" height="44" alt="Python"/></a>&nbsp;
-<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="44" height="44" alt="VS Code"/></a>&nbsp;
-<a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="44" height="44" alt="Docker"/></a>&nbsp;
-<a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="44" height="44" alt="Git"/></a>&nbsp;
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="44" height="44" alt="PostgreSQL"/></a>&nbsp;
-<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="44" height="44" alt="MongoDB"/></a>&nbsp;
-<a href="https://www.vim.org/" title="Vim"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="44" height="44" alt="Vim"/></a>
-</p>
-
-<p align="center">
-<a href="https://nginx.org/" title="Nginx"><img src="assets/icons/stack/nginx.svg" width="44" height="44" alt="Nginx"/></a>&nbsp;
-<a href="https://grafana.com/" title="Grafana"><img src="assets/icons/stack/grafana.svg" width="44" height="44" alt="Grafana"/></a>&nbsp;
-<a href="https://prometheus.io/" title="Prometheus"><img src="assets/icons/stack/prometheus.svg" width="44" height="44" alt="Prometheus"/></a>&nbsp;
-<a href="https://redis.io/" title="Redis"><img src="assets/icons/stack/redis.svg" width="44" height="44" alt="Redis"/></a>&nbsp;
-<a href="https://about.gitlab.com/" title="GitLab"><img src="assets/icons/stack/gitlab.svg" width="44" height="44" alt="GitLab"/></a>&nbsp;
-<a href="https://helm.sh/" title="Helm"><img src="assets/icons/stack/helm.svg" width="44" height="44" alt="Helm"/></a>&nbsp;
-<a href="https://docs.docker.com/compose/" title="Docker Compose"><img src="assets/icons/stack/docker-compose.svg" width="44" height="44" alt="Docker Compose"/></a>&nbsp;
-<a href="https://www.proxmox.com/" title="Proxmox"><img src="assets/icons/stack/proxmox.svg" width="44" height="44" alt="Proxmox"/></a>&nbsp;
-<a href="https://cloud.yandex.ru/" title="Yandex Cloud"><img src="assets/icons/stack/yandex-cloud.svg" width="44" height="44" alt="Yandex Cloud"/></a>
-</p>
+## Компетенции
 
 <table>
 <thead>
@@ -175,6 +149,36 @@
 </tr>
 </tbody>
 </table>
+
+---
+
+## Стек
+
+<p align="center">
+<a href="https://kubernetes.io/" title="Kubernetes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="44" height="44" alt="Kubernetes"/></a>&nbsp;
+<a href="https://www.linux.org" title="Linux"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="44" height="44" alt="Linux"/></a>&nbsp;
+<a href="https://ubuntu.com/" title="Ubuntu"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="44" height="44" alt="Ubuntu"/></a>&nbsp;
+<a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="44" height="44" alt="Bash"/></a>&nbsp;
+<a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="44" height="44" alt="Python"/></a>&nbsp;
+<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="44" height="44" alt="VS Code"/></a>&nbsp;
+<a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="44" height="44" alt="Docker"/></a>&nbsp;
+<a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="44" height="44" alt="Git"/></a>&nbsp;
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="44" height="44" alt="PostgreSQL"/></a>&nbsp;
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="44" height="44" alt="MongoDB"/></a>&nbsp;
+<a href="https://www.vim.org/" title="Vim"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="44" height="44" alt="Vim"/></a>
+</p>
+
+<p align="center">
+<a href="https://nginx.org/" title="Nginx"><img src="assets/icons/stack/nginx.svg" width="44" height="44" alt="Nginx"/></a>&nbsp;
+<a href="https://grafana.com/" title="Grafana"><img src="assets/icons/stack/grafana.svg" width="44" height="44" alt="Grafana"/></a>&nbsp;
+<a href="https://prometheus.io/" title="Prometheus"><img src="assets/icons/stack/prometheus.svg" width="44" height="44" alt="Prometheus"/></a>&nbsp;
+<a href="https://redis.io/" title="Redis"><img src="assets/icons/stack/redis.svg" width="44" height="44" alt="Redis"/></a>&nbsp;
+<a href="https://about.gitlab.com/" title="GitLab"><img src="assets/icons/stack/gitlab.svg" width="44" height="44" alt="GitLab"/></a>&nbsp;
+<a href="https://helm.sh/" title="Helm"><img src="assets/icons/stack/helm.svg" width="44" height="44" alt="Helm"/></a>&nbsp;
+<a href="https://docs.docker.com/compose/" title="Docker Compose"><img src="assets/icons/stack/docker-compose.svg" width="44" height="44" alt="Docker Compose"/></a>&nbsp;
+<a href="https://www.proxmox.com/" title="Proxmox"><img src="assets/icons/stack/proxmox.svg" width="44" height="44" alt="Proxmox"/></a>&nbsp;
+<a href="https://cloud.yandex.ru/" title="Yandex Cloud"><img src="assets/icons/stack/yandex-cloud.svg" width="44" height="44" alt="Yandex Cloud"/></a>
+</p>
 
 ---
 
