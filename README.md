@@ -1,20 +1,26 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/161568160?v=4" width="110" style="border-radius: 50%;" alt="avatar"/>
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=520&lines=Ислам+Евлоев;Junior+DevOps+Engineer;Linux+%7C+Docker+%7C+Kubernetes" alt="typing intro"/>
 
 <br/>
 
-<img src="video/profile.gif" width="500" alt="profile banner"/>
+<img src="video/profile.gif" width="460" alt="profile banner"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_Назрань,_Ингушетия-1c1917?style=for-the-badge&labelColor=0891b2" alt="location"/>
+<img src="https://img.shields.io/badge/Назрань-Ингушетия-0891b2?style=for-the-badge&labelColor=1c1917" alt="location"/>
 <img src="https://img.shields.io/badge/Открыт_к_работе-0891b2?style=for-the-badge&logo=briefcase&logoColor=white" alt="open to work"/>
 <img src="https://img.shields.io/badge/Удалённо-1c1917?style=for-the-badge&labelColor=0891b2" alt="remote"/>
 
 <br/><br/>
 
-[![profile views](https://komarev.com/ghpvc/?username=putniikiis&color=0891b2&style=for-the-badge&label=просмотры&labelColor=1c1917)](https://github.com/putniikiis)
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/putniikiis&query=$.public_repos&style=for-the-badge&label=репозитории&color=0891b2&labelColor=1c1917&logo=github" alt="repos"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/putniikiis&query=$.followers&style=for-the-badge&label=подписчики&color=0891b2&labelColor=1c1917&logo=github" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=putniikiis&color=0891b2&style=for-the-badge&label=просмотры&labelColor=1c1917" alt="profile views"/>
 
 <br/><br/>
 
@@ -24,7 +30,7 @@
 &nbsp;&nbsp;
 <a href="https://discord.com/users/islam8353" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord"/></a>
 &nbsp;&nbsp;
-<a href="mailto:islam06evloev@gmail.com"><img src="https://img.shields.io/badge/Email-islam06evloev@gmail.com-0891b2?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="mailto:islam06evloev@gmail.com"><img src="https://img.shields.io/badge/Почта-написать-0891b2?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
 
 </div>
 
@@ -34,12 +40,14 @@
 
 Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Я **Ислам Евлоев** — **junior DevOps** из Назрани.
 
-Администрирую **Linux**-серверы, автоматизирую задачи на **Bash** и **Python**, работаю с **Docker**, **Kubernetes**, **CI/CD**, **Nginx** и стеком мониторинга **Prometheus / Grafana**. Прошёл стажировку в **SmartHelpDesk**, учусь в **Школе 21** и **ИнгГУ**, веду pet-проекты на GitHub.
+Администрирую **Linux**-серверы, автоматизирую рутину на **Bash** и **Python**, поднимаю сервисы в **Docker** и **Kubernetes**, настраиваю **CI/CD**, **Nginx** и мониторинг **Prometheus / Grafana**. Прошёл стажировку в **SmartHelpDesk**, учусь в **Школе 21** и **ИнгГУ**, развиваю pet-проекты на GitHub.
 
-- 🎓 **ИнгГУ** + **Школа 21** — трек Linux → Bash → C
-- 💼 Стажировка DevOps: Docker, K8s, GitLab CI/CD, hardening после DDoS
-- 🧪 Домашняя лаборатория: **Proxmox**, **Yandex Cloud**, VPN, бэкапы, observability
-- 🇷🇺 Открыт к работе в России и удалённо
+| | |
+| :--- | :--- |
+| 🎓 **Образование** | **ИнгГУ** + **Школа 21** — Linux → Bash → C |
+| 💼 **Опыт** | DevOps-стажировка: Docker, K8s, GitLab CI/CD, hardening после DDoS |
+| 🧪 **Лаборатория** | **Proxmox**, **Yandex Cloud**, VPN, бэкапы, observability |
+| 🇷🇺 **Формат** | Россия · удалённо |
 
 ---
 
@@ -146,7 +154,7 @@ Dotfiles для Arch Linux: идемпотентная установка, verif
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### [`Muslim-reminder`](https://github.com/putniikiis/Muslim-reminder)
 Фоновый сервис напоминаний для Linux и macOS.
@@ -154,13 +162,21 @@ Dotfiles для Arch Linux: идемпотентная установка, verif
 `Python` · `Shell`
 
 </td>
+<td width="50%" valign="top">
+
+### [`putniikiis`](https://github.com/putniikiis/putniikiis)
+Профиль GitHub — DevOps-портфолио и сертификаты.
+
+`Markdown` · `GitHub Actions`
+
+</td>
 </tr>
 </table>
 
 <p align="center">
-<a href="https://github.com/putniikiis/linux-devops"><img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=putniikiis&repo=linux-devops&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="170" alt="linux-devops"/></a>
+<a href="https://github.com/putniikiis/linux-devops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=putniikiis&repo=linux-devops&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="170" alt="linux-devops"/></a>
 &nbsp;&nbsp;
-<a href="https://github.com/putniikiis/niri-dotfiles"><img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=putniikiis&repo=niri-dotfiles&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="170" alt="niri-dotfiles"/></a>
+<a href="https://github.com/putniikiis/niri-dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=putniikiis&repo=niri-dotfiles&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="170" alt="niri-dotfiles"/></a>
 </p>
 
 ---
@@ -179,16 +195,22 @@ Dotfiles для Arch Linux: идемпотентная установка, verif
 <a href="certificates/kubernetes.pdf"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
 </p>
 
-<sub align="center">PDF-файлы — в папке <a href="certificates/">certificates/</a></sub>
+<p align="center"><sub>PDF-файлы — в папке <a href="certificates/">certificates/</a></sub></p>
 
 ---
 
 ## 📊 Статистика
 
 <p align="center">
-<a href="https://github.com/putniikiis"><img src="https://github-readme-stats-sigma.vercel.app/api?username=putniikiis&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&hide_title=false" height="195" alt="GitHub stats"/></a>
+<a href="https://github.com/putniikiis"><img src="https://github-readme-stats.vercel.app/api?username=putniikiis&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&include_all_commits=true" height="195" alt="GitHub stats"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/putniikiis"><img src="https://streak-stats.demolab.com/?user=putniikiis&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="195" alt="contribution streak"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/putniikiis"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putniikiis&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=6&hide_progress=false" height="195" alt="top languages"/></a>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=putniikiis&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="github trophies"/>
 </p>
 
 <p align="center">
@@ -196,5 +218,8 @@ Dotfiles для Arch Linux: идемпотентная установка, verif
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/putniikiis/putniikiis/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="92%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/putniikiis/putniikiis/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/putniikiis/putniikiis/output/github-contribution-grid-snake.svg" alt="contribution snake" width="92%"/>
+</picture>
 </p>
