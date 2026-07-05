@@ -1,135 +1,183 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=30,31,32&height=130&section=header&text=Islam%20Evloev&fontSize=34&fontColor=e8e0d4&animation=fadeIn" width="100%" alt="header"/>
-
-<br/><br/>
-
-<img src="https://avatars.githubusercontent.com/u/161568160?v=4" width="108" alt="avatar" style="border-radius: 22px; border: 2px solid #9db4c0;"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3200&pause=1400&color=9DB4C0&center=true&width=500&lines=junior+devops;linux+%C2%B7+bash+%C2%B7+monitoring;arch+linux+%C2%B7+open+source" alt="typing"/>
-
-<br/><br/>
-
-**`cosmiculous`** · [@putniikiis](https://github.com/putniikiis)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e23636,50:1565c0,100:1a1a2e&height=150&section=header&text=ISLAM%20EVLOEV&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="header"/>
 
 <br/>
 
-<sub>тихий вайб · старый добрый linux · учусь и собираю инфраструктуру</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&weight=400&size=22&duration=2500&pause=1000&color=E23636&center=true&width=620&lines=JUNIOR+DEVOPS+ENGINEER;KUBERNETES+%C2%B7+LINUX+%C2%B7+DOCKER;YOUR+FRIENDLY+NEIGHBORHOOD+SYSADMIN" alt="typing"/>
 
 <br/><br/>
 
-[![views](https://komarev.com/ghpvc/?username=putniikiis&color=9db4c0&style=flat-square&label=views&labelColor=2d2a3e)](https://github.com/putniikiis)
-[![followers](https://img.shields.io/github/followers/putniikiis?style=flat-square&logo=github&color=3d3a4e&labelColor=2d2a3e&logoColor=c9b8a8)](https://github.com/putniikiis?tab=followers)
+<img src="https://avatars.githubusercontent.com/u/161568160?v=4" width="130" alt="avatar" style="border-radius: 50%; border: 4px solid #e23636; outline: 4px solid #1565c0; outline-offset: 3px;"/>
+
+<br/><br/>
+
+# 🕷️ `cosmiculous`
+
+### Junior DevOps · [@putniikiis](https://github.com/putniikiis)
+
+<br/>
+
+> **💬 «С большой инфраструктурой приходит большая ответственность.»**
+>
+> *— а если серьёзно: учусь, автоматизирую и чиню linux-серверы*
+
+<br/>
+
+[![views](https://komarev.com/ghpvc/?username=putniikiis&color=e23636&style=for-the-badge&label=POW!+VIEWS&labelColor=1565c0)](https://github.com/putniikiis)
+[![followers](https://img.shields.io/github/followers/putniikiis?style=for-the-badge&logo=github&color=f7d020&labelColor=1a1a2e&logoColor=1a1a2e)](https://github.com/putniikiis?tab=followers)
 
 </div>
 
 <br/>
 
-```
-┌─ about ─────────────────────────────────────────────┐
-│                                                     │
-│  Islam · junior devops · arch linux + niri          │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+## 🕸️ ORIGIN STORY
 
-Привет. Я **Islam** — **junior DevOps** с упором на **Linux** и спокойную, понятную инфраструктуру.
+<table>
+<tr>
+<td width="65%">
 
-Настраиваю системы, пишу **bash**, разбираюсь с сетями, логами и метриками. Собираю базовый **observability**-стек, автоматизирую рутину и документирую всё в репозиториях. Параллельно качаю **C** и **Python** — чтобы лучше понимать, как устроены инструменты изнутри.
+Привет! Я **Islam** — **junior DevOps**, который лазает по **Kubernetes**, админит **Linux**-серверы и собирает инфраструктуру из **Docker**, **Nginx**, **Grafana** и баз данных.
+
+Работаю с **Git/GitLab**, **Helm**, **Proxmox**, **Yandex Cloud**. Настраиваю **VPN**, **SSH**, мониторинг, бэкапы и **микросервисы**. Пишу на **Bash** и **Python**.
+
+Всё, что делаю — в открытых репозиториях ниже.
+
+</td>
+<td width="35%" align="center">
+
+**ISSUE #1**
+
+`junior devops`
+
+`arch linux`
+
+`open source`
+
+`building skills`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-```
-┌─ focus ─────────────────────────────────────────────┐
-│  linux admin  ·  bash  ·  docker  ·  git          │
-│  prometheus   ·  grafana  ·  nginx  ·  networking  │
-└─────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-## инструменты
+## ⚡ SUPERPOWERS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,nginx&perline=6" alt="devops stack"/>
+### 🕷️ Core
 
-<br/><br/>
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-E23636?style=for-the-badge&logo=linux&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-3d3a4e?style=flat-square&logo=linux&logoColor=c9b8a8)
-![Bash](https://img.shields.io/badge/Bash-3d3a4e?style=flat-square&logo=gnu-bash&logoColor=9db4c0)
-![Docker](https://img.shields.io/badge/Docker-3d3a4e?style=flat-square&logo=docker&logoColor=9db4c0)
-![Prometheus](https://img.shields.io/badge/Prometheus-3d3a4e?style=flat-square&logo=prometheus&logoColor=c9b8a8)
-![Grafana](https://img.shields.io/badge/Grafana-3d3a4e?style=flat-square&logo=grafana&logoColor=9db4c0)
-![Git](https://img.shields.io/badge/Git-3d3a4e?style=flat-square&logo=git&logoColor=c9b8a8)
-![Python](https://img.shields.io/badge/Python-3d3a4e?style=flat-square&logo=python&logoColor=9db4c0)
-![Make](https://img.shields.io/badge/Make-3d3a4e?style=flat-square&logo=gnu&logoColor=c9b8a8)
+<br/>
+
+### 🖥️ Servers & Cloud
+
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-5282FF?style=for-the-badge&logo=yandexcloud&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-1a1a2e?style=for-the-badge&logo=openssh&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-1565C0?style=for-the-badge&logo=wireguard&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+<br/>
+
+### 📦 Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+<br/>
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-E23636?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br/>
+
+### 📊 Monitoring & Ops
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-F7D020?style=for-the-badge&logo=prometheus&logoColor=black)
+![Backup](https://img.shields.io/badge/Backup-1565C0?style=for-the-badge&logo=googledrive&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+<br/>
+
+### 🏗️ Architecture & More
+
+![Microservices](https://img.shields.io/badge/Microservices-E23636?style=for-the-badge&logo=nginx&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=linux,k8s,docker,python,bash,git,nginx,postgres,redis,mongodb,gitlab&perline=6" alt="skills"/>
 
 </div>
 
 <br/>
 
-## репозитории
+## 📰 MISSION LOG · проекты
 
-| | проект | что внутри |
-|:---:|:---|:---|
-| 🐧 | [**linux-devops**](https://github.com/putniikiis/linux-devops) | админка linux, bash-мониторинг, prometheus + grafana |
-| ⚙️ | [**c-libraries**](https://github.com/putniikiis/c-libraries) | утилиты и библиотеки на c11 |
-| 📚 | [**monorepo**](https://github.com/putniikiis/monorepo) | учебный путь: linux → bash → c |
-| 🪟 | [**niri-dotfiles**](https://github.com/putniikiis/niri-dotfiles) | dotfiles под arch + niri |
-| 📖 | [**Muslim-reminder**](https://github.com/putniikiis/Muslim-reminder) | напоминания с аятами · linux & macos |
-
-<br/>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="260" alt="night" style="border-radius: 18px; opacity: 0.92;"/>
-
-</div>
+| # | Миссия | Стек |
+| :---: | :--- | :--- |
+| 🐧 | [**linux-devops**](https://github.com/putniikiis/linux-devops) | Linux admin · Bash · Prometheus · Grafana |
+| ⚙️ | [**c-libraries**](https://github.com/putniikiis/c-libraries) | C11 · утилиты · системное программирование |
+| 📚 | [**monorepo**](https://github.com/putniikiis/monorepo) | Linux → Bash → C learning path |
+| 🪟 | [**niri-dotfiles**](https://github.com/putniikiis/niri-dotfiles) | Arch Linux · niri · dotfiles |
+| 📖 | [**Muslim-reminder**](https://github.com/putniikiis/Muslim-reminder) | Python · напоминания · Linux & macOS |
 
 <br/>
 
-## статистика
+## 📊 HERO STATS
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=putniikiis&show_icons=true&hide_border=true&bg_color=2d2a3e&title_color=c9b8a8&icon_color=9db4c0&text_color=e8e0d4&border_radius=18" alt="stats" style="border-radius: 18px;"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=putniikiis&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=e23636&icon_color=1565c0&text_color=ffffff&border_radius=16" alt="stats" style="border-radius: 16px;"/>
 &nbsp;
-<img height="160" src="https://github-readme-streak-stats.demolab.com/?user=putniikiis&hide_border=true&background=2D2A3E&ring=9db4c0&fire=c9b8a8&currStreakLabel=e8e0d4&border_radius=18" alt="streak" style="border-radius: 18px;"/>
+<img height="170" src="https://github-readme-streak-stats.demolab.com/?user=putniikiis&hide_border=true&background=1A1A2E&ring=E23636&fire=F7D020&currStreakLabel=FFFFFF&border_radius=16" alt="streak" style="border-radius: 16px;"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putniikiis&layout=compact&hide_border=true&bg_color=2d2a3e&title_color=c9b8a8&langs_count=5&border_radius=18" alt="langs" style="border-radius: 18px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putniikiis&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=e23636&langs_count=6&border_radius=16" alt="langs" style="border-radius: 16px;"/>
 
 </div>
 
 <br/>
 
-## активность
+## 🐍 WEB OF ACTIVITY
 
 <div align="center">
 
-<img src="https://github.com/putniikiis/putniikiis/blob/output/github-contribution-grid-snake.svg" alt="snake" style="border-radius: 16px; opacity: 0.95;"/>
+<img src="https://github.com/putniikiis/putniikiis/blob/output/github-contribution-grid-snake.svg" alt="snake" style="border-radius: 16px;"/>
 
 </div>
 
 <br/>
 
-## связь
+## 📡 SIGNAL · связь
 
 <div align="center">
 
-<a href="https://github.com/putniikiis"><img src="https://img.shields.io/badge/github-putniikiis-2d2a3e?style=for-the-badge&logo=github&logoColor=9db4c0"/></a>
-<a href="mailto:islam06evloev@gmail.com"><img src="https://img.shields.io/badge/mail-islam06evloev%40gmail.com-3d3a4e?style=for-the-badge&logo=gmail&logoColor=c9b8a8"/></a>
+[![GitHub](https://img.shields.io/badge/🕷️_GitHub-putniikiis-E23636?style=for-the-badge&logo=github&logoColor=white&labelColor=1565C0)](https://github.com/putniikiis)
+[![Email](https://img.shields.io/badge/📡_Email-islam06evloev%40gmail.com-F7D020?style=for-the-badge&logo=gmail&logoColor=1a1a2e&labelColor=1a1a2e)](mailto:islam06evloev@gmail.com)
 
 <br/><br/>
 
-<sub>☁️ junior devops · linux · monitoring · automation</sub>
+**THWIP!** · junior devops · kubernetes · linux · docker
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=30,31,32&height=70&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565c0,50:e23636,100:1a1a2e&height=90&section=footer" width="100%" alt="footer"/>
 
 </div>
