@@ -1,24 +1,28 @@
-# Сертификаты (PDF)
+# Сертификаты
 
-Сюда кладутся PDF-файлы сертификатов. После загрузки ссылки в README заработают автоматически.
+Сюда кладутся **изображения** сертификатов (PNG или JPG). Они автоматически отображаются в профиле README.
 
-## Как добавить сертификат
+> GitHub не показывает PDF как картинку. Сохраните сертификат как **PNG** или **JPG** (скриншот или экспорт из PDF).
 
-1. Сохраните PDF в эту папку (`certificates/`).
-2. Используйте имя файла из таблицы ниже.
-3. Закоммитьте и запушьте в репозиторий.
+## Как добавить
+
+1. Положите файл в эту папку (`certificates/`).
+2. Используйте имя из таблицы ниже.
+3. Закоммитьте и запушьте — картинка появится в README.
 
 ## Имена файлов
 
-| Файл | Описание |
+| Файл | Сертификат |
 | :--- | :--- |
-| `d01-linux.pdf` | Linux (D01) |
-| `d02-linux-network.pdf` | Linux Network (D02) |
-| `d03-linux-monitoring.pdf` | Linux Monitoring (D03) |
-| `do5-docker.pdf` | Simple Docker (DO5) |
-| `do6-cicd.pdf` | CI/CD (DO6) |
-| `do7-docker-compose.pdf` | Docker Compose (DO7) |
-| `yandex-cloud.pdf` | Yandex Cloud |
-| `kubernetes.pdf` | Kubernetes |
+| `d01-linux.png` | Linux (D01) |
+| `d02-linux-network.png` | Linux Network (D02) |
+| `d03-linux-monitoring.png` | Linux Monitoring (D03) |
+| `do5-docker.png` | Simple Docker (DO5) |
+| `do6-cicd.png` | CI/CD (DO6) |
+| `do7-docker-compose.png` | Docker Compose (DO7) |
+| `yandex-cloud.png` | Yandex Cloud |
+| `kubernetes.png` | Kubernetes |
 
-Новый сертификат: добавьте PDF сюда и строку в таблицу **Сертификаты** в `README.md`.
+Можно использовать `.jpg` вместо `.png` — тогда измените расширение в `README.md` в секции **Сертификаты**.
+
+Новый сертификат: добавьте PNG сюда и строку `<img>` в `README.md`.

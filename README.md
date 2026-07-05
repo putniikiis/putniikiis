@@ -222,51 +222,26 @@
 
 ## Сертификаты
 
-PDF-файлы хранятся в каталоге [`certificates/`](certificates/).  
-Положите PDF с именем из таблицы — ссылка в профиле заработает автоматически.
-
+<p align="center">
 <table>
-<thead>
 <tr>
-<th align="left">Сертификат</th>
-<th align="left">PDF-файл</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Linux (D01)</td>
-<td><a href="certificates/d01-linux.pdf">certificates/d01-linux.pdf</a></td>
+<td align="center" width="50%"><img src="certificates/d01-linux.png" width="340" alt="Linux D01"/></td>
+<td align="center" width="50%"><img src="certificates/d02-linux-network.png" width="340" alt="Linux Network D02"/></td>
 </tr>
 <tr>
-<td>Linux Network (D02)</td>
-<td><a href="certificates/d02-linux-network.pdf">certificates/d02-linux-network.pdf</a></td>
+<td align="center"><img src="certificates/d03-linux-monitoring.png" width="340" alt="Linux Monitoring D03"/></td>
+<td align="center"><img src="certificates/do5-docker.png" width="340" alt="Simple Docker DO5"/></td>
 </tr>
 <tr>
-<td>Linux Monitoring (D03)</td>
-<td><a href="certificates/d03-linux-monitoring.pdf">certificates/d03-linux-monitoring.pdf</a></td>
+<td align="center"><img src="certificates/do6-cicd.png" width="340" alt="CI/CD DO6"/></td>
+<td align="center"><img src="certificates/do7-docker-compose.png" width="340" alt="Docker Compose DO7"/></td>
 </tr>
 <tr>
-<td>Simple Docker (DO5)</td>
-<td><a href="certificates/do5-docker.pdf">certificates/do5-docker.pdf</a></td>
+<td align="center"><img src="certificates/yandex-cloud.png" width="340" alt="Yandex Cloud"/></td>
+<td align="center"><img src="certificates/kubernetes.png" width="340" alt="Kubernetes"/></td>
 </tr>
-<tr>
-<td>CI/CD (DO6)</td>
-<td><a href="certificates/do6-cicd.pdf">certificates/do6-cicd.pdf</a></td>
-</tr>
-<tr>
-<td>Docker Compose (DO7)</td>
-<td><a href="certificates/do7-docker-compose.pdf">certificates/do7-docker-compose.pdf</a></td>
-</tr>
-<tr>
-<td>Yandex Cloud</td>
-<td><a href="certificates/yandex-cloud.pdf">certificates/yandex-cloud.pdf</a></td>
-</tr>
-<tr>
-<td>Kubernetes</td>
-<td><a href="certificates/kubernetes.pdf">certificates/kubernetes.pdf</a></td>
-</tr>
-</tbody>
 </table>
+</p>
 
 ---
 
