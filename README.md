@@ -12,7 +12,7 @@
 
 Занимаюсь администрированием **Linux**, автоматизацией на **Bash** и **Python**, развёртыванием сервисов в **Docker** и **Kubernetes**. Настраиваю **CI/CD**, **Nginx**, мониторинг на **Prometheus** и **Grafana**, работаю с PostgreSQL, Redis и MongoDB.
 
-Прошёл DevOps-стажировку в **SmartHelpDesk**, участвовал в **10-дневном DevOps-хакатоне** по платформе **Smart Hackathon**, учусь в **Школе 21** и **ИнгГУ**. Веду pet-проекты и домашнюю лабораторию на **Proxmox** и **Yandex Cloud**.
+Прошёл DevOps-стажировку в **SmartHelpDesk**, участвовал в **10-дневном DevOps-хакатоне** по платформе **Smart Hackathon**, учусь в **Школе 21** и **ИнгГУ**. Веду pet-проекты и домашнюю лабораторию на **Proxmox**.
 
 <table>
 <thead>
