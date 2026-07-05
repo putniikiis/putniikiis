@@ -12,7 +12,7 @@
 
 Занимаюсь администрированием **Linux**, автоматизацией на **Bash** и **Python**, развёртыванием сервисов в **Docker** и **Kubernetes**. Настраиваю **CI/CD**, **Nginx**, мониторинг на **Prometheus** и **Grafana**, работаю с PostgreSQL, Redis и MongoDB.
 
-Прошёл DevOps-стажировку в **SmartHelpDesk**, участвовал в **10-дневном DevOps-хакатоне** по платформе **Smart Hackathon**, учусь в **Школе 21** и **ИнгГУ**. Веду pet-проекты и домашнюю лабораторию на **Proxmox**.
+Прошёл DevOps-стажировку в **SmartHelpDesk**, участвовал в **10-дневном DevOps-хакатоне** по платформе **Smart Hackathon**, учусь в **Школе 21** и **ИнгГУ**. Веду pet-проекты и домашнюю лабораторию на **Proxmox** и **Yandex Cloud**.
 
 <table>
 <thead>
@@ -33,49 +33,6 @@
 <tr>
 <td><strong>Формат работы</strong></td>
 <td>Россия · удалённо · открыт к предложениям</td>
-</tr>
-</tbody>
-</table>
-
----
-
-## Связь
-
-<table>
-<thead>
-<tr>
-<th align="left">Канал</th>
-<th align="left">Контакт</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="20" height="20" alt="GitHub" align="center"/>
-&nbsp; <strong>GitHub</strong>
-</td>
-<td><a href="https://github.com/putniikiis">github.com/putniikiis</a></td>
-</tr>
-<tr>
-<td>
-<img src="assets/icons/telegram.svg" width="20" height="20" alt="Telegram" align="center"/>
-&nbsp; <strong>Telegram</strong>
-</td>
-<td><a href="https://t.me/yettalor">@yettalor</a></td>
-</tr>
-<tr>
-<td>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="20" height="20" alt="Discord" align="center"/>
-&nbsp; <strong>Discord</strong>
-</td>
-<td><a href="https://discord.com/users/islam8353">islam8353</a></td>
-</tr>
-<tr>
-<td>
-<img src="assets/icons/gmail.svg" width="20" height="20" alt="Email" align="center"/>
-&nbsp; <strong>Email</strong>
-</td>
-<td><a href="mailto:islam06evloev@gmail.com">islam06evloev@gmail.com</a></td>
 </tr>
 </tbody>
 </table>
@@ -107,6 +64,47 @@
 <td><code>2024 — н.в.</code></td>
 <td><strong>Pet-проекты</strong><br/><sub>GitHub</sub></td>
 <td><a href="https://github.com/putniikiis/linux-devops">linux-devops</a> · <a href="https://github.com/putniikiis/niri-dotfiles">niri-dotfiles</a> · <a href="https://github.com/putniikiis/monorepo">monorepo</a></td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## Проекты
+
+<table>
+<thead>
+<tr>
+<th align="left">Проект</th>
+<th align="left">Описание</th>
+<th align="left">Стек</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/putniikiis/linux-devops"><strong>linux-devops</strong></a></td>
+<td>Администрирование Linux, bash-мониторинг, observability, сеть</td>
+<td>Bash · Prometheus · Grafana · Nginx</td>
+</tr>
+<tr>
+<td><a href="https://github.com/putniikiis/niri-dotfiles"><strong>niri-dotfiles</strong></a></td>
+<td>Dotfiles Arch Linux, идемпотентная установка</td>
+<td>Bash · Python · Arch</td>
+</tr>
+<tr>
+<td><a href="https://github.com/putniikiis/monorepo"><strong>monorepo</strong></a></td>
+<td>Учебный трек Школы 21</td>
+<td>Linux · Bash · C · Make</td>
+</tr>
+<tr>
+<td><a href="https://github.com/putniikiis/c-libraries"><strong>c-libraries</strong></a></td>
+<td>Утилиты и библиотеки C11</td>
+<td>C · Make · POSIX</td>
+</tr>
+<tr>
+<td><a href="https://github.com/putniikiis/Muslim-reminder"><strong>Muslim-reminder</strong></a></td>
+<td>Фоновый сервис напоминаний</td>
+<td>Python · Shell</td>
 </tr>
 </tbody>
 </table>
@@ -182,69 +180,50 @@
 
 ---
 
-## Проекты
+## Сертификаты
+
+---
+
+## Связь
 
 <table>
 <thead>
 <tr>
-<th align="left">Проект</th>
-<th align="left">Описание</th>
-<th align="left">Стек</th>
+<th align="left">Канал</th>
+<th align="left">Контакт</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/putniikiis/linux-devops"><strong>linux-devops</strong></a></td>
-<td>Администрирование Linux, bash-мониторинг, observability, сеть</td>
-<td>Bash · Prometheus · Grafana · Nginx</td>
+<td>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="20" height="20" alt="GitHub" align="center"/>
+&nbsp; <strong>GitHub</strong>
+</td>
+<td><a href="https://github.com/putniikiis">github.com/putniikiis</a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/putniikiis/niri-dotfiles"><strong>niri-dotfiles</strong></a></td>
-<td>Dotfiles Arch Linux, идемпотентная установка</td>
-<td>Bash · Python · Arch</td>
+<td>
+<img src="assets/icons/telegram.svg" width="20" height="20" alt="Telegram" align="center"/>
+&nbsp; <strong>Telegram</strong>
+</td>
+<td><a href="https://t.me/yettalor">@yettalor</a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/putniikiis/monorepo"><strong>monorepo</strong></a></td>
-<td>Учебный трек Школы 21</td>
-<td>Linux · Bash · C · Make</td>
+<td>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="20" height="20" alt="Discord" align="center"/>
+&nbsp; <strong>Discord</strong>
+</td>
+<td><a href="https://discord.com/users/islam8353">islam8353</a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/putniikiis/c-libraries"><strong>c-libraries</strong></a></td>
-<td>Утилиты и библиотеки C11</td>
-<td>C · Make · POSIX</td>
-</tr>
-<tr>
-<td><a href="https://github.com/putniikiis/Muslim-reminder"><strong>Muslim-reminder</strong></a></td>
-<td>Фоновый сервис напоминаний</td>
-<td>Python · Shell</td>
+<td>
+<img src="assets/icons/gmail.svg" width="20" height="20" alt="Email" align="center"/>
+&nbsp; <strong>Email</strong>
+</td>
+<td><a href="mailto:islam06evloev@gmail.com">islam06evloev@gmail.com</a></td>
 </tr>
 </tbody>
 </table>
-
----
-
-## Сертификаты
-
-<p align="center">
-<table>
-<tr>
-<td align="center" width="50%"><img src="certificates/d01-linux.png" width="340" alt="Linux D01"/></td>
-<td align="center" width="50%"><img src="certificates/d02-linux-network.png" width="340" alt="Linux Network D02"/></td>
-</tr>
-<tr>
-<td align="center"><img src="certificates/d03-linux-monitoring.png" width="340" alt="Linux Monitoring D03"/></td>
-<td align="center"><img src="certificates/do5-docker.png" width="340" alt="Simple Docker DO5"/></td>
-</tr>
-<tr>
-<td align="center"><img src="certificates/do6-cicd.png" width="340" alt="CI/CD DO6"/></td>
-<td align="center"><img src="certificates/do7-docker-compose.png" width="340" alt="Docker Compose DO7"/></td>
-</tr>
-<tr>
-<td align="center"><img src="certificates/yandex-cloud.png" width="340" alt="Yandex Cloud"/></td>
-<td align="center"><img src="certificates/kubernetes.png" width="340" alt="Kubernetes"/></td>
-</tr>
-</table>
-</p>
 
 ---
 
